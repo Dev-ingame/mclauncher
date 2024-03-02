@@ -1,0 +1,18 @@
+For x64 Systems
+---------------
+
+Step 1 - Open x64 Folder
+
+Step 2 - copy the file from x64 SysWOW64 to C:\Windows\SysWOW64
+
+Step 3 - copy the file from System32 to C:\Windows\System32
+
+For x32(x86) Systems
+--------------------
+
+Step 1 - Open x32 Folder
+
+Step 2 - copy the file from System32 to C:\Windows\System32
+
+
+
